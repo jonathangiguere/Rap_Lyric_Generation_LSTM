@@ -12,4 +12,5 @@ Our data we used to train our models came from Kaggle but the dataset has since 
 - Generators folder contains a notebook for the character and word models.  These notebooks load the saved models and generate new lyrics for evaluation.  Inspect the predict_Character_Model.ipynb for model evaluation as well.
 - Lyric_Scrape.ipynb contains a web scraper that can pull lyrics for any artist on MetroLyrics.com.
 - Models folder contains the saved models that were trained on the drake-songs.csv data.
+- Report.pdf is the write-up for the project.  Refer to this for context.
 - Training folder contains the notebooks used for training the character and word models. 
